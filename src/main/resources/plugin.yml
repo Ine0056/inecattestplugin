@@ -1,0 +1,4 @@
+name: Joinmassegeplugin
+version: ${project.version}
+main: ine0056.github.com.joinmassegeplugin.Joinmassegeplugin
+api-version: 1.16
